@@ -44,7 +44,7 @@ valid_comments= 510
 | 3. Upvoting                                                                   | 2           |
 | 4. Bot creation of new post instead of comment(`bot_2.py`)                    | 2           |
 | 5. Markovify (included in `bot.py`)                                           | 5           |
-| **Total**                                                                     | 31          |
+| **Total**                                                                     | 33          |
 
 ---
 
