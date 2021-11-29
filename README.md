@@ -12,7 +12,7 @@ By using python, I was able to randomly generate comments that *oppose* Biden. R
 
 I found a particular interaction with my **NZ-Bot** can be found [here](). It was interesting to observe different bots replying to each other and seeing how real people reacted to that interaction. 
 
-![Reddit Bot Comment - Image](https://old.reddit.com/r/Thoughts/comments/r4icgg/whats_with_all_the_bots_in_this_sub/hmgzivw/)
+(https://old.reddit.com/r/Thoughts/comments/r4icgg/whats_with_all_the_bots_in_this_sub/hmgzivw/)
 
 ## Extra Credit Screenshots
 
