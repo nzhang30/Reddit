@@ -52,7 +52,7 @@ def generate_comment():
     return comment
 
 # Get raw text as string.
-with open("trump_corpus.txt", encoding="utf8") as f:
+with open("biden_speech.txt", encoding="utf8") as f:
     text = f.read()
 
 # Seed Random with date
